@@ -1,0 +1,14 @@
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/bin/Debug/net9.0/UserAgeValidation
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/bin/Debug/net9.0/UserAgeValidation.deps.json
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/bin/Debug/net9.0/UserAgeValidation.runtimeconfig.json
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/bin/Debug/net9.0/UserAgeValidation.dll
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/bin/Debug/net9.0/UserAgeValidation.pdb
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.AssemblyInfoInputs.cache
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.AssemblyInfo.cs
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.csproj.CoreCompileInputs.cache
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.dll
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/refint/UserAgeValidation.dll
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.pdb
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/UserAgeValidation.genruntimeconfig.cache
+/Users/johanna/RiderProjects/Week2/UserAgeValidation/obj/Debug/net9.0/ref/UserAgeValidation.dll

@@ -1,0 +1,14 @@
+/Users/johanna/RiderProjects/Week2/Week2/bin/Debug/net9.0/Week2
+/Users/johanna/RiderProjects/Week2/Week2/bin/Debug/net9.0/Week2.deps.json
+/Users/johanna/RiderProjects/Week2/Week2/bin/Debug/net9.0/Week2.runtimeconfig.json
+/Users/johanna/RiderProjects/Week2/Week2/bin/Debug/net9.0/Week2.dll
+/Users/johanna/RiderProjects/Week2/Week2/bin/Debug/net9.0/Week2.pdb
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.AssemblyInfoInputs.cache
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.AssemblyInfo.cs
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.csproj.CoreCompileInputs.cache
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.dll
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/refint/Week2.dll
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.pdb
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/Week2.genruntimeconfig.cache
+/Users/johanna/RiderProjects/Week2/Week2/obj/Debug/net9.0/ref/Week2.dll

@@ -1,0 +1,14 @@
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/bin/Debug/net9.0/UserGenderValidation
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/bin/Debug/net9.0/UserGenderValidation.deps.json
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/bin/Debug/net9.0/UserGenderValidation.runtimeconfig.json
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/bin/Debug/net9.0/UserGenderValidation.dll
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/bin/Debug/net9.0/UserGenderValidation.pdb
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.AssemblyInfoInputs.cache
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.AssemblyInfo.cs
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.csproj.CoreCompileInputs.cache
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.dll
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/refint/UserGenderValidation.dll
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.pdb
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/UserGenderValidation.genruntimeconfig.cache
+/Users/johanna/RiderProjects/Week2/UserGenderValidation/obj/Debug/net9.0/ref/UserGenderValidation.dll
